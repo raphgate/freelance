@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "..\\raphgate"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "cape_cleaning"
+  }
+}
